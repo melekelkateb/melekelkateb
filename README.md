@@ -21,7 +21,7 @@ I enjoy solving problems and continuously learning new technologies.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
 
 <br/><br/><br/>
