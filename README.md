@@ -26,6 +26,4 @@ I enjoy solving problems and continuously learning new technologies.
 
 <br/><br/><br/>
 
-### 📊 Github Stats:
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=melekkateb&show_icons=true&theme=transparent)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melekkateb&layout=compact&theme=transparent)
+
