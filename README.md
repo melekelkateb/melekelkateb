@@ -6,6 +6,8 @@ I enjoy solving problems and continuously learning new technologies.
 
 <br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ### 🧐 About Me:
 - 🌱 Currently improving my **cybersecurity** skills (TryHackMe, networking, penetration testing basics).  
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/melekelkateb).  
@@ -23,6 +25,5 @@ I enjoy solving problems and continuously learning new technologies.
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
 
 <br/><br/><br/>
-
 
 
