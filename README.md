@@ -1,12 +1,12 @@
-## Hello 👋, I'm Melek Kateb!
-<a href='https://www.linkedin.com/in/melekkateb/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>  
+## Hey 👋, I'm Melek Kateb!
+<a href='https://www.linkedin.com/in/melekkateb/'><img align='left' alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='18px'/></a>  
 
 I'm a **Computer Science student** and **programmer** passionate about building useful applications and exploring the world of **cybersecurity**.  
 I enjoy solving problems and continuously learning new technologies.  
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
 
 ### 🧐 About Me:
 - 🌱 Currently improving my **cybersecurity** skills (TryHackMe, networking, penetration testing basics).  
@@ -17,13 +17,15 @@ I enjoy solving problems and continuously learning new technologies.
 <br/>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
-
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
 <br/><br/><br/>
 
-
+### 📊 Github Stats:
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=melekkateb&show_icons=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melekkateb&layout=compact&theme=transparent)
